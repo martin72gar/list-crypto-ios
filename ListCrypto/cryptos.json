@@ -1,0 +1,106 @@
+    {
+        "cryptos": [
+        {
+            "code": "BTC",
+            "name": "Bitcoin",
+            "image": "btc",
+            "desc": "Mata uang digital yang satu ini masih bertengger di posisi satu (coba cek coinmarket.com). Bitcoin juga menyandang gelar mata uang digital paling populer sejak pertama kali kemunculannya. Tak hanya populer, Bitcoin termasuk ke dalam mata uang digital yang paling layak untuk dimiliki. Bahkan para pakar cryptocurrency menjulukinya sebagai king of cryptocurrency. Jumlah Bitcoin sangat terbatas sementara permintaannya tinggi. Hal ini menyebabkan nilai tukar atau harganya melambung tinggi. Saat ini, nilai investasi Bitcoin masih stabil walaupun harga Bitcoin sedang mengalami penurunan. Banyak orang yang membeli in the dip loh. Dimulai dengan harga ratusan perak, Bitcoin kini sudah ratusan juta nilainya.",
+        },
+        {
+            "code": "LTC",
+            "name": "Litecoin",
+            "image": "ltc",
+            "desc": "Litecoin kerap disebut sebagai mata uang digital terbaik karena memiliki tingkat likuiditas tinggi serta pangsa pasar yang besar. Mata uang digital yang satu ini bisa disejajarkan dengan BTC dan ETH. Saat ini terdapat 84 juta Litecoin yang beredar bebas di pasaran. Litecoin sangat layak untuk dimiliki karena memiliki beberapa keunggulan. Salah satunya adalah proses mining atau penambangan yang hanya membutuhkan waktu sekitar 2 menit. Tak heran jika para investor lebih melirik LTC dibandingkan yang lain.",
+        },
+        {
+            "code": "ETH",
+            "name": "Etherum",
+            "image": "eth",
+            "desc": "Di posisi kedua adalah Ethereum yang punya tingkat likuiditas cukup tinggi. Hal ini disebabkan oleh perdagangan mata uang yang satu ini cukup banyak. Sehingga pencairannya pun lebih mudah dibandingkan mata uang digital lainnya. Nilai tukar Ethereum memang sempat mengalami penurunan pada 2018, sama seperti Bitcoin. Namun Ethereum bangkit kembali pada 2020 dan mampu menduduki posisi kedua di CoinMarketCap. Di 2021, ETH tetap menjadi andalan setelah Bitcoin. All time high ETH hampir mendekati IDR 50 juta lho per koin di awal Mei 2021 ini.",
+        },
+        {
+            "code": "XRP",
+            "name": "Ripple",
+            "image": "xrp",
+            "desc": "RippleNet adalah suatu jaringan layanan pembayaran seperti Bank dan bisnis layanan keuangan yang dikembangkan oleh Ripple. Ripple dirancang sebagai sistem pembayaran sehari-hari. XRP sendiri merupakan representasi dari jaringan Ripple.",
+        },
+        {
+            "code": "DOGE",
+            "name": "Doge",
+            "image": "doge",
+            "desc": "Dogecoin diluncurkan tahun 2013. Teknologi ini berasal dari Litecoin. Dogecoin diciptakan oleh programmer Billy Markus. Dogecoin awalnya di rencanakan untuk menghasilkan maksimal 100 miliar Dogecoins namun seiring berjalannya waktu kemudian Dogecoin diumumkan memiliki jumlah supply yang tidak terbatas. Awalnya Doge dijadikan sebagai mata uang lelucon. Ada yang percaya Doge akan meningkat hingga $1 ada yang tidak. Namun menariknya di awal tahun 2021, penggemar Doge semakin meningkat apalagi ketika ada cuitan tweet dari CEO Tesla, Elon Musk.",
+        },
+        {
+            "code": "TRX",
+            "name": "Tron",
+            "image": "trx",
+            "desc": "Tron atau TRX adalah aset crypto yang baru. Pemilik TRX yakni Justin Sun adalah pengusaha muda Cina yang masuk Forbes 30 under 30 dan merupakan anak didiknya Jack Ma. Tron sebagai alat bayar akses premium ini semakin banyak digunakan di masa mendatang. Kenapa? Karena sudah banyak orang yang mau membayar akses konten-konten premium. Berawal dari ratusan perak per coin di awal tahun 2021. Saat ini TRX sudah mencapai diatas IDR 2000 lho per coin-nya.",
+        },
+        {
+            "code": "LINK",
+            "name": "Chainlink",
+            "image": "link",
+            "desc": "Chainlink menjadi proyek yang dibuat tahun 2017. Chainlink dibuat karena mampu mengatasi permasalah antara teknologi blockchain dan non-blockchain. LINK merupakan jaringan oracle yang terdesentralisasi. Chainlink dibuat untuk sistem transaksi yang lebih aman.",
+        },
+        {
+            "code": "XLM",
+            "name": "Stellar Lumens",
+            "image": "xlm",
+            "desc": "XLM adalah crypto yang beroperasi di atas teknologi perangkat lunak Stellar pada tahun 2014. Tujuan XLM adalah menjadi solusi pembayaran lintas batas atau antar-negara. XLM menjanjikan kemampuan transaksi yang cepat dan dapat dikatakan lebih cepat dibanding Ethereum. Keunggulan teknologi Stellar membuat investor tertarik mengoleksi koin ini.",
+        },
+        {
+            "code": "HOT",
+            "name": "Holochain",
+            "image": "hot",
+            "desc": "Holo atau HOT adalah platform yang dibuat peer-to-peer untuk hosting aplikasi terdesentralisasi. HOT dibangun menggunakan Holochain yang memiliki tujuan sebagai jembatan antara internet yang lebih luas. Holochain dibuat untuk mengembangkan DApps yang tidak memerlukan penggunaan teknologi blockchain. HOT sendiri masih dalam pengembangan. Harga HOT pun masih murah. Jika kamu tertarik investasi koin Holo, bisa dicicil dari sekarang.",
+        },
+        {
+            "code": "DOT",
+            "name": "Polkadot",
+            "image": "dot",
+            "desc": "Polkadot merupakan jaringan blockchain yang dirancang sebagai jaringan multi-rantai (tidak seperti Bitcoin). Blockchain polkadot dapat bertindak sebagai pusat terdesentralisasi untuk semua jenis blockhcain. Keuntungan DOT adalah skalabilitas dimana mendukung banyak blockchain melalui mekanisme yang disebut dengan sharding atau parachain. Ini membuat transaksi semakin efisien. DOT sendiri telah terdaftar di lebih dari 40 bursa dengan volume perdagangan yang cukup tinggi. DOT saat ini berada pada peringkat ke-9 di coinmarketcap.com.",
+        },
+        {
+            "code": "BNB",
+            "name": "Binance",
+            "image": "bnb",
+            "desc": "BNB Coin diluncurkan tahun 2017. BNB memiliki fundamental kuat yang mana adalah koin dari Binance Exchange, salah satu broker crypto terbesar di dunia dengan CEO Changpeng Zhao seorang pengusaha sukses Cina-Kanada. Dengan BNB, Anda dapat menggunakannya untuk membayar biaya trading di Binance Exchange dan alat pembayaran lainnya yang digunakan beberapa vendor tertentu contohnya untuk biaya perjalanan, membeli hadiah virtual, dan masih banyak lagi. Akhir bulan April dan awal bulan Mei 2021 lalu, BNB sudah mencapai lebih dari $500 per koin (kira-kira diatas Rp 7 juta-an per 1 coin-nya). Fantastis ya BNB ini. Bisa jadi pilihan untuk long investment lho.",
+        },
+        {
+            "code": "SOL",
+            "name": "Solana",
+            "image": "sol",
+            "desc": "Pada bulan April 2021 lalu, SOL atau Solana menyentuh harga tertinggi sekitar Rp 500ribuan lebih dan terlihat kuat untuk kenaikannya. SOL sendiri dibuat sebagai solusi karena banyak yang tertarik dengan blockchain sistem PoH atau Proof-of-History. Salah satu keunggulan Solana adalah kecepatan transaksinya yang lebih cepat dari Ethereum. Investor crypto semakin tertarik karena bulan April lalu Solana meluncurkan Chrome Extension dompet digitalnya yang bernama Sollet Wallet. Hal ini membuat kegunaan Solana mirip dengan Ethereum. SOL bahkan diprediksi naik lebih tinggi akibat banyaknya sentimen positif lho.",
+        },
+        {
+            "code": "CAKE",
+            "name": "Pancake Swap",
+            "image": "cake",
+            "desc": "CAKE di 2021 ini cukup menjadi perhatian para investor kripto. CAKE sendiri berhasil melewati Sushiswab dan Uniswab. Pada awal Mei 2021 lalu, CAKE sudah mencapai diatas IDR 600 ribu per koinnya. Diketahui, minggu ini di bulan Juni 2021, CAKE bakal terjadi migrasi versi Pancakeswap dari versi 1 (V1) ke versi 2 (V2).",
+        },
+        {
+            "code": "TKO",
+            "name": "Tokocrypto",
+            "image": "tko",
+            "desc": "TKO merupakan mata uang kripto lokal Indonesia pertama yang menawarkan model token hybrid yang unik. TKO sendiri akan menjadi jalur dari produk DeFi termasuk farming pool dan NFT Arcade. Tokocrypto menjadi platform bursa mata uang digital paling terkemuka di Indonesia. TKO oleh Tokocrypto dibangun di atas Binance Smart Chain (BSC) yang merupakan infrastruktur crypto yang berjalan secara paralel dengan Binance Chain. BSC diklaim menawarkan biaya rendah, kecepatan transaksi, layanan yang bagus, dan mudah digunakan. TKO dapat digunakan dalam program tabungan seperti TKO deposit, rebate, savings, dan cashback.",
+        },
+        {
+            "code": "ADA",
+            "name": "Cardano",
+            "image": "ada",
+            "desc": "Dikutip dari coinvestasi.com (Maret 2021) perusahaan investasi di Dubai melakukan investasi besar ke Cardano. Investasi ini ditujukan kepada tim developer yang berfokus pada mata uang digital tersebut bersama keseluruhan ekosistemnya. Perusahaan tersebut dikabarkan meluncurkan dana sebesar $250 juta atau sekitar Rp 3,57 triliun. ADA juga memiliki sentimen positif melalui pembaharuan sistemnya. So, ADA bisa jadi pilihan kamu lho. Per 28 Juni, ADA berada di harga sekitar Rp 19 ribu-an. Gak cuman itu, Cardano sekarang sudah mencapai 650ribu alamat dompet staking. Jika banyak yang melakukan staking kemungkinan jumlah ADA yang beredar bakal makin langka dan kemungkinan harga bakal terus naik. Mumpung masih murah sekarang, yuk koleksi.",
+        },
+        {
+            "code": "MATIC",
+            "name": "Polygon",
+            "image": "matic",
+            "desc": "Mayoritas analis investor mengatakan bahwa nilai dari MATIC masih sangat murah. Ketertarikan terhadap MATIC memang mengundang perhatian investor crypto karena bergerak sebagai wadah dan infrastruktur pengembangan blockchain Ethereum. Dikutip dari coinvestasi.com (April 2021) MATIC telah naik sekitar 50% dalam beberapa hari. Dalam jangka panjang, MATIC dapat dijadikan pilihan untuk di investasi. Karena kedepannya, diprediksi akan semakin banyak proyek yang mengadopsi Polygon. MATIC sendiri dipercaya dapat menyediakan solusi transaksi yang lebih cepat dan lebih murah. Pada tanggal 28 Juni 2021, posisi rank MATIC ada di urutan 16 coinmarketcap setelah LINK (Chainlink).",
+        },
+        {
+            "code": "SHIB",
+            "name": "Shiba Inu",
+            "image": "shib",
+            "desc": "Disebut sebagai token pengganti Dogecoin? Wah, ternyata banyak juga yang tertarik dengan Shiba Inu ya. Shiba Inu sendiri bergerak pada Blockchain Ethereum. Token Shiba Inu dapat dikatakan baru, masih dalam proses uji coba, dan masih dalam proses audit. Shiba Inu dikirimkan sekitar 50% ke Ethereum karena sistem Blockchain Ethereum yang dipercaya aman. Tujuan utama Shiba Inu adalah muncul sebagai salah satu bursa DeX atau bursa terdesentralisasi dengan nama SHIBASWAP. ",
+        }
+    ]
+}
